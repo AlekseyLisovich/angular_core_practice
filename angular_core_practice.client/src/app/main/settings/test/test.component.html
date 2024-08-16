@@ -1,0 +1,13 @@
+<fieldset class="newsletter">
+  <legend>Newsletter</legend>
+
+  <h5>Hello {{user?.firstName}}, enter your email below to subscribe:</h5>
+  <form class="row align-items-center">
+      <div class="col-auto">
+          <input #email type="email" name="email" class="form-control mr-2" placeholder="Enter your Email">
+      </div>
+      <div class="col-auto">
+          <button type="button" class="btn btn-primary">Subscribe</button>
+      </div>
+  </form>
+</fieldset>

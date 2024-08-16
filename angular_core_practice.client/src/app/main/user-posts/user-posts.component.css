@@ -1,0 +1,10 @@
+.add-card-btn {
+    margin: 10px;
+}
+
+.add-card-input {
+    border: 1px solid #ced4da;
+    background-color: #fff;
+    margin: 10px;
+    color: #000;
+}

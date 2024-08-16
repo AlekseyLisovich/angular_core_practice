@@ -1,0 +1,373 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\Work\\angular_core_practice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A368362-7D2E-4A97-B554-BF87EE34D0CF}|angular_core_practice.Server\\angular_core_practice.Server.csproj|c:\\projects\\work\\angular_core_practice\\angular_core_practice.server\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A368362-7D2E-4A97-B554-BF87EE34D0CF}|angular_core_practice.Server\\angular_core_practice.Server.csproj|solutionrelative:angular_core_practice.server\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A368362-7D2E-4A97-B554-BF87EE34D0CF}|angular_core_practice.Server\\angular_core_practice.Server.csproj|c:\\projects\\work\\angular_core_practice\\angular_core_practice.server\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A368362-7D2E-4A97-B554-BF87EE34D0CF}|angular_core_practice.Server\\angular_core_practice.Server.csproj|solutionrelative:angular_core_practice.server\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A368362-7D2E-4A97-B554-BF87EE34D0CF}|angular_core_practice.Server\\angular_core_practice.Server.csproj|c:\\projects\\work\\angular_core_practice\\angular_core_practice.server\\ef\\applicationcontext .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A368362-7D2E-4A97-B554-BF87EE34D0CF}|angular_core_practice.Server\\angular_core_practice.Server.csproj|solutionrelative:angular_core_practice.server\\ef\\applicationcontext .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A368362-7D2E-4A97-B554-BF87EE34D0CF}|angular_core_practice.Server\\angular_core_practice.Server.csproj|c:\\projects\\work\\angular_core_practice\\angular_core_practice.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A368362-7D2E-4A97-B554-BF87EE34D0CF}|angular_core_practice.Server\\angular_core_practice.Server.csproj|solutionrelative:angular_core_practice.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A368362-7D2E-4A97-B554-BF87EE34D0CF}|angular_core_practice.Server\\angular_core_practice.Server.csproj|c:\\projects\\work\\angular_core_practice\\angular_core_practice.server\\migrations\\20240426100208_addtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A368362-7D2E-4A97-B554-BF87EE34D0CF}|angular_core_practice.Server\\angular_core_practice.Server.csproj|solutionrelative:angular_core_practice.server\\migrations\\20240426100208_addtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A368362-7D2E-4A97-B554-BF87EE34D0CF}|angular_core_practice.Server\\angular_core_practice.Server.csproj|c:\\projects\\work\\angular_core_practice\\angular_core_practice.server\\migrations\\20240405113052_addcardstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A368362-7D2E-4A97-B554-BF87EE34D0CF}|angular_core_practice.Server\\angular_core_practice.Server.csproj|solutionrelative:angular_core_practice.server\\migrations\\20240405113052_addcardstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A368362-7D2E-4A97-B554-BF87EE34D0CF}|angular_core_practice.Server\\angular_core_practice.Server.csproj|c:\\projects\\work\\angular_core_practice\\angular_core_practice.server\\entities\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A368362-7D2E-4A97-B554-BF87EE34D0CF}|angular_core_practice.Server\\angular_core_practice.Server.csproj|solutionrelative:angular_core_practice.server\\entities\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A368362-7D2E-4A97-B554-BF87EE34D0CF}|angular_core_practice.Server\\angular_core_practice.Server.csproj|c:\\projects\\work\\angular_core_practice\\angular_core_practice.server\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A368362-7D2E-4A97-B554-BF87EE34D0CF}|angular_core_practice.Server\\angular_core_practice.Server.csproj|solutionrelative:angular_core_practice.server\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A368362-7D2E-4A97-B554-BF87EE34D0CF}|angular_core_practice.Server\\angular_core_practice.Server.csproj|c:\\projects\\work\\angular_core_practice\\angular_core_practice.server\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A368362-7D2E-4A97-B554-BF87EE34D0CF}|angular_core_practice.Server\\angular_core_practice.Server.csproj|solutionrelative:angular_core_practice.server\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A368362-7D2E-4A97-B554-BF87EE34D0CF}|angular_core_practice.Server\\angular_core_practice.Server.csproj|c:\\projects\\work\\angular_core_practice\\angular_core_practice.server\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A368362-7D2E-4A97-B554-BF87EE34D0CF}|angular_core_practice.Server\\angular_core_practice.Server.csproj|solutionrelative:angular_core_practice.server\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A368362-7D2E-4A97-B554-BF87EE34D0CF}|angular_core_practice.Server\\angular_core_practice.Server.csproj|c:\\projects\\work\\angular_core_practice\\angular_core_practice.server\\services\\blogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A368362-7D2E-4A97-B554-BF87EE34D0CF}|angular_core_practice.Server\\angular_core_practice.Server.csproj|solutionrelative:angular_core_practice.server\\services\\blogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A368362-7D2E-4A97-B554-BF87EE34D0CF}|angular_core_practice.Server\\angular_core_practice.Server.csproj|c:\\projects\\work\\angular_core_practice\\angular_core_practice.server\\repositories\\blogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A368362-7D2E-4A97-B554-BF87EE34D0CF}|angular_core_practice.Server\\angular_core_practice.Server.csproj|solutionrelative:angular_core_practice.server\\repositories\\blogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A368362-7D2E-4A97-B554-BF87EE34D0CF}|angular_core_practice.Server\\angular_core_practice.Server.csproj|c:\\projects\\work\\angular_core_practice\\angular_core_practice.server\\repositories\\interfaces\\iblogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A368362-7D2E-4A97-B554-BF87EE34D0CF}|angular_core_practice.Server\\angular_core_practice.Server.csproj|solutionrelative:angular_core_practice.server\\repositories\\interfaces\\iblogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A368362-7D2E-4A97-B554-BF87EE34D0CF}|angular_core_practice.Server\\angular_core_practice.Server.csproj|c:\\projects\\work\\angular_core_practice\\angular_core_practice.server\\repositories\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A368362-7D2E-4A97-B554-BF87EE34D0CF}|angular_core_practice.Server\\angular_core_practice.Server.csproj|solutionrelative:angular_core_practice.server\\repositories\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A368362-7D2E-4A97-B554-BF87EE34D0CF}|angular_core_practice.Server\\angular_core_practice.Server.csproj|c:\\projects\\work\\angular_core_practice\\angular_core_practice.server\\services\\interfaces\\iblogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A368362-7D2E-4A97-B554-BF87EE34D0CF}|angular_core_practice.Server\\angular_core_practice.Server.csproj|solutionrelative:angular_core_practice.server\\services\\interfaces\\iblogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A368362-7D2E-4A97-B554-BF87EE34D0CF}|angular_core_practice.Server\\angular_core_practice.Server.csproj|c:\\projects\\work\\angular_core_practice\\angular_core_practice.server\\migrations\\20240405141737_updatecardtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A368362-7D2E-4A97-B554-BF87EE34D0CF}|angular_core_practice.Server\\angular_core_practice.Server.csproj|solutionrelative:angular_core_practice.server\\migrations\\20240405141737_updatecardtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A368362-7D2E-4A97-B554-BF87EE34D0CF}|angular_core_practice.Server\\angular_core_practice.Server.csproj|c:\\projects\\work\\angular_core_practice\\angular_core_practice.server\\models\\viewmodels\\blogviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A368362-7D2E-4A97-B554-BF87EE34D0CF}|angular_core_practice.Server\\angular_core_practice.Server.csproj|solutionrelative:angular_core_practice.server\\models\\viewmodels\\blogviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A368362-7D2E-4A97-B554-BF87EE34D0CF}|angular_core_practice.Server\\angular_core_practice.Server.csproj|c:\\projects\\work\\angular_core_practice\\angular_core_practice.server\\repositories\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A368362-7D2E-4A97-B554-BF87EE34D0CF}|angular_core_practice.Server\\angular_core_practice.Server.csproj|solutionrelative:angular_core_practice.server\\repositories\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A368362-7D2E-4A97-B554-BF87EE34D0CF}|angular_core_practice.Server\\angular_core_practice.Server.csproj|c:\\projects\\work\\angular_core_practice\\angular_core_practice.server\\models\\dtos\\carddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A368362-7D2E-4A97-B554-BF87EE34D0CF}|angular_core_practice.Server\\angular_core_practice.Server.csproj|solutionrelative:angular_core_practice.server\\models\\dtos\\carddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A368362-7D2E-4A97-B554-BF87EE34D0CF}|angular_core_practice.Server\\angular_core_practice.Server.csproj|c:\\projects\\work\\angular_core_practice\\angular_core_practice.server\\models\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A368362-7D2E-4A97-B554-BF87EE34D0CF}|angular_core_practice.Server\\angular_core_practice.Server.csproj|solutionrelative:angular_core_practice.server\\models\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A368362-7D2E-4A97-B554-BF87EE34D0CF}|angular_core_practice.Server\\angular_core_practice.Server.csproj|c:\\projects\\work\\angular_core_practice\\angular_core_practice.server\\services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A368362-7D2E-4A97-B554-BF87EE34D0CF}|angular_core_practice.Server\\angular_core_practice.Server.csproj|solutionrelative:angular_core_practice.server\\services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A368362-7D2E-4A97-B554-BF87EE34D0CF}|angular_core_practice.Server\\angular_core_practice.Server.csproj|c:\\projects\\work\\angular_core_practice\\angular_core_practice.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9A368362-7D2E-4A97-B554-BF87EE34D0CF}|angular_core_practice.Server\\angular_core_practice.Server.csproj|solutionrelative:angular_core_practice.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Card.cs",
+              "DocumentMoniker": "C:\\Projects\\Work\\angular_core_practice\\angular_core_practice.Server\\Entities\\Card.cs",
+              "RelativeDocumentMoniker": "angular_core_practice.Server\\Entities\\Card.cs",
+              "ToolTip": "C:\\Projects\\Work\\angular_core_practice\\angular_core_practice.Server\\Entities\\Card.cs",
+              "RelativeToolTip": "angular_core_practice.Server\\Entities\\Card.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T10:53:55.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Projects\\Work\\angular_core_practice\\angular_core_practice.Server\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "angular_core_practice.Server\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Projects\\Work\\angular_core_practice\\angular_core_practice.Server\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "angular_core_practice.Server\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAAACoAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T13:44:17.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Projects\\Work\\angular_core_practice\\angular_core_practice.Server\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "angular_core_practice.Server\\Entities\\User.cs",
+              "ToolTip": "C:\\Projects\\Work\\angular_core_practice\\angular_core_practice.Server\\Entities\\User.cs",
+              "RelativeToolTip": "angular_core_practice.Server\\Entities\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T13:30:00.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationContext .cs",
+              "DocumentMoniker": "C:\\Projects\\Work\\angular_core_practice\\angular_core_practice.Server\\EF\\ApplicationContext .cs",
+              "RelativeDocumentMoniker": "angular_core_practice.Server\\EF\\ApplicationContext .cs",
+              "ToolTip": "C:\\Projects\\Work\\angular_core_practice\\angular_core_practice.Server\\EF\\ApplicationContext .cs",
+              "RelativeToolTip": "angular_core_practice.Server\\EF\\ApplicationContext .cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T13:32:23.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Projects\\Work\\angular_core_practice\\angular_core_practice.Server\\Repositories\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "angular_core_practice.Server\\Repositories\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\Projects\\Work\\angular_core_practice\\angular_core_practice.Server\\Repositories\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "angular_core_practice.Server\\Repositories\\Interfaces\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T12:57:57.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\Work\\angular_core_practice\\angular_core_practice.Server\\Program.cs",
+              "RelativeDocumentMoniker": "angular_core_practice.Server\\Program.cs",
+              "ToolTip": "C:\\Projects\\Work\\angular_core_practice\\angular_core_practice.Server\\Program.cs",
+              "RelativeToolTip": "angular_core_practice.Server\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T13:44:10.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BlogController.cs",
+              "DocumentMoniker": "C:\\Projects\\Work\\angular_core_practice\\angular_core_practice.Server\\Controllers\\BlogController.cs",
+              "RelativeDocumentMoniker": "angular_core_practice.Server\\Controllers\\BlogController.cs",
+              "ToolTip": "C:\\Projects\\Work\\angular_core_practice\\angular_core_practice.Server\\Controllers\\BlogController.cs",
+              "RelativeToolTip": "angular_core_practice.Server\\Controllers\\BlogController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T11:36:10.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20240426100208_AddTest.cs",
+              "DocumentMoniker": "C:\\Projects\\Work\\angular_core_practice\\angular_core_practice.Server\\Migrations\\20240426100208_AddTest.cs",
+              "RelativeDocumentMoniker": "angular_core_practice.Server\\Migrations\\20240426100208_AddTest.cs",
+              "ToolTip": "C:\\Projects\\Work\\angular_core_practice\\angular_core_practice.Server\\Migrations\\20240426100208_AddTest.cs",
+              "RelativeToolTip": "angular_core_practice.Server\\Migrations\\20240426100208_AddTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T10:02:08.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BlogViewModel.cs",
+              "DocumentMoniker": "C:\\Projects\\Work\\angular_core_practice\\angular_core_practice.Server\\Models\\ViewModels\\BlogViewModel.cs",
+              "RelativeDocumentMoniker": "angular_core_practice.Server\\Models\\ViewModels\\BlogViewModel.cs",
+              "ToolTip": "C:\\Projects\\Work\\angular_core_practice\\angular_core_practice.Server\\Models\\ViewModels\\BlogViewModel.cs",
+              "RelativeToolTip": "angular_core_practice.Server\\Models\\ViewModels\\BlogViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T11:46:57.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Projects\\Work\\angular_core_practice\\angular_core_practice.Server\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "angular_core_practice.Server\\Services\\UserService.cs",
+              "ToolTip": "C:\\Projects\\Work\\angular_core_practice\\angular_core_practice.Server\\Services\\UserService.cs",
+              "RelativeToolTip": "angular_core_practice.Server\\Services\\UserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T12:39:24.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20240405113052_AddCardsTable.cs",
+              "DocumentMoniker": "C:\\Projects\\Work\\angular_core_practice\\angular_core_practice.Server\\Migrations\\20240405113052_AddCardsTable.cs",
+              "RelativeDocumentMoniker": "angular_core_practice.Server\\Migrations\\20240405113052_AddCardsTable.cs",
+              "ToolTip": "C:\\Projects\\Work\\angular_core_practice\\angular_core_practice.Server\\Migrations\\20240405113052_AddCardsTable.cs",
+              "RelativeToolTip": "angular_core_practice.Server\\Migrations\\20240405113052_AddCardsTable.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAgAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T11:31:00.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IBlogRepository.cs",
+              "DocumentMoniker": "C:\\Projects\\Work\\angular_core_practice\\angular_core_practice.Server\\Repositories\\Interfaces\\IBlogRepository.cs",
+              "RelativeDocumentMoniker": "angular_core_practice.Server\\Repositories\\Interfaces\\IBlogRepository.cs",
+              "ToolTip": "C:\\Projects\\Work\\angular_core_practice\\angular_core_practice.Server\\Repositories\\Interfaces\\IBlogRepository.cs",
+              "RelativeToolTip": "angular_core_practice.Server\\Repositories\\Interfaces\\IBlogRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T12:05:50.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BlogService.cs",
+              "DocumentMoniker": "C:\\Projects\\Work\\angular_core_practice\\angular_core_practice.Server\\Services\\BlogService.cs",
+              "RelativeDocumentMoniker": "angular_core_practice.Server\\Services\\BlogService.cs",
+              "ToolTip": "C:\\Projects\\Work\\angular_core_practice\\angular_core_practice.Server\\Services\\BlogService.cs",
+              "RelativeToolTip": "angular_core_practice.Server\\Services\\BlogService.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAuwDoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T11:54:23.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IBlogService.cs",
+              "DocumentMoniker": "C:\\Projects\\Work\\angular_core_practice\\angular_core_practice.Server\\Services\\Interfaces\\IBlogService.cs",
+              "RelativeDocumentMoniker": "angular_core_practice.Server\\Services\\Interfaces\\IBlogService.cs",
+              "ToolTip": "C:\\Projects\\Work\\angular_core_practice\\angular_core_practice.Server\\Services\\Interfaces\\IBlogService.cs",
+              "RelativeToolTip": "angular_core_practice.Server\\Services\\Interfaces\\IBlogService.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAswAsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T11:39:24.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Projects\\Work\\angular_core_practice\\angular_core_practice.Server\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "angular_core_practice.Server\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Projects\\Work\\angular_core_practice\\angular_core_practice.Server\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "angular_core_practice.Server\\Repositories\\UserRepository.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAqwCEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T12:58:33.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BlogRepository.cs",
+              "DocumentMoniker": "C:\\Projects\\Work\\angular_core_practice\\angular_core_practice.Server\\Repositories\\BlogRepository.cs",
+              "RelativeDocumentMoniker": "angular_core_practice.Server\\Repositories\\BlogRepository.cs",
+              "ToolTip": "C:\\Projects\\Work\\angular_core_practice\\angular_core_practice.Server\\Repositories\\BlogRepository.cs",
+              "RelativeToolTip": "angular_core_practice.Server\\Repositories\\BlogRepository.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAkwCgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T12:15:33.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20240405141737_UpdateCardTable.cs",
+              "DocumentMoniker": "C:\\Projects\\Work\\angular_core_practice\\angular_core_practice.Server\\Migrations\\20240405141737_UpdateCardTable.cs",
+              "RelativeDocumentMoniker": "angular_core_practice.Server\\Migrations\\20240405141737_UpdateCardTable.cs",
+              "ToolTip": "C:\\Projects\\Work\\angular_core_practice\\angular_core_practice.Server\\Migrations\\20240405141737_UpdateCardTable.cs",
+              "RelativeToolTip": "angular_core_practice.Server\\Migrations\\20240405141737_UpdateCardTable.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T14:18:26.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Projects\\Work\\angular_core_practice\\angular_core_practice.Server\\Repositories\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "angular_core_practice.Server\\Repositories\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "C:\\Projects\\Work\\angular_core_practice\\angular_core_practice.Server\\Repositories\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "angular_core_practice.Server\\Repositories\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T14:01:02.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CardDTO.cs",
+              "DocumentMoniker": "C:\\Projects\\Work\\angular_core_practice\\angular_core_practice.Server\\Models\\DTOs\\CardDTO.cs",
+              "RelativeDocumentMoniker": "angular_core_practice.Server\\Models\\DTOs\\CardDTO.cs",
+              "ToolTip": "C:\\Projects\\Work\\angular_core_practice\\angular_core_practice.Server\\Models\\DTOs\\CardDTO.cs",
+              "RelativeToolTip": "angular_core_practice.Server\\Models\\DTOs\\CardDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T12:01:22.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "C:\\Projects\\Work\\angular_core_practice\\angular_core_practice.Server\\Models\\DTOs\\UserDTO.cs",
+              "RelativeDocumentMoniker": "angular_core_practice.Server\\Models\\DTOs\\UserDTO.cs",
+              "ToolTip": "C:\\Projects\\Work\\angular_core_practice\\angular_core_practice.Server\\Models\\DTOs\\UserDTO.cs",
+              "RelativeToolTip": "angular_core_practice.Server\\Models\\DTOs\\UserDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T13:49:47.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Projects\\Work\\angular_core_practice\\angular_core_practice.Server\\Services\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "angular_core_practice.Server\\Services\\Interfaces\\IUserService.cs",
+              "ToolTip": "C:\\Projects\\Work\\angular_core_practice\\angular_core_practice.Server\\Services\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "angular_core_practice.Server\\Services\\Interfaces\\IUserService.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAADwvwgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T12:37:15.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Projects\\Work\\angular_core_practice\\angular_core_practice.Server\\appsettings.json",
+              "RelativeDocumentMoniker": "angular_core_practice.Server\\appsettings.json",
+              "ToolTip": "C:\\Projects\\Work\\angular_core_practice\\angular_core_practice.Server\\appsettings.json",
+              "RelativeToolTip": "angular_core_practice.Server\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAACDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-04T14:15:37.523Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

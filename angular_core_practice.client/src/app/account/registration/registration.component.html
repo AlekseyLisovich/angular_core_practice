@@ -1,0 +1,57 @@
+<form [formGroup]="form" (ngSubmit)="onSubmit()" class="registation-form">
+    <div class="form-group">
+        <mat-form-field class="example-full-width">
+            <mat-label>Username</mat-label>
+            <input type="text" matInput formControlName="username" placeholder="Ex. SuperUser">
+            <mat-hint></mat-hint>
+            <mat-error *ngIf="registerForm.username.invalid && (registerForm.username.dirty || registerForm.username.touched)">
+                <div *ngIf="registerForm.username.errors?.required">Field is required.</div>
+                <div *ngIf="registerForm.username.errors?.minlength">Username must be at least 4 characters long.</div>
+                <div *ngIf="registerForm.username.errors?.maxlength">Username must be no more than 20 characters.</div>
+            </mat-error>
+        </mat-form-field>      
+    </div>
+    <div class="form-group">
+        <mat-form-field class="example-full-width">
+            <mat-label>Email</mat-label>
+            <input type="email" matInput formControlName="email" placeholder="Ex. pat@example.com">
+            <mat-hint></mat-hint>
+            <mat-error *ngIf="registerForm.email.invalid && (registerForm.email.dirty || registerForm.email.touched)">
+                <div *ngIf="registerForm.email.errors?.required" class="text-danger">Email is required.</div>
+                <div *ngIf="registerForm.email.errors?.pattern" class="text-danger">Please provide a valid email address.</div>
+            </mat-error>
+        </mat-form-field> 
+    </div>
+    <div class="form-group" formGroupName="passwords">
+        <div class="form-group">
+            <mat-form-field class="example-full-width">
+                <mat-label>Password</mat-label>
+                <input type="password" matInput formControlName="password" placeholder="1234">
+                <mat-hint></mat-hint>
+                <mat-error *ngIf="passwordField.invalid && (passwordField.dirty || passwordField.touched)">
+                    <div *ngIf="passwordField.errors?.required">Field is required.</div>
+                    <div *ngIf="passwordField.errors?.minlength">Password must be at least 4 characters long</div>
+                    <div *ngIf="passwordField.errors?.maxlength">Password must be no more than 20 characters.</div>
+                </mat-error>
+            </mat-form-field> 
+        </div>
+        <div class="form-group">
+            <mat-form-field class="example-full-width">
+                <mat-label>Confirm Password</mat-label>
+                <input type="password" matInput formControlName="confirmpassword" placeholder="1234">
+                <mat-hint></mat-hint>
+                <mat-error *ngIf="confirmPasswordField.invalid && (confirmPasswordField.dirty || confirmPasswordField.touched)">
+                    <div *ngIf="confirmPasswordField.errors?.required">Field is required.</div>
+                    <div *ngIf="confirmPasswordField.errors?.passwordMismatch">Password mismatch.</div>
+                </mat-error>
+            </mat-form-field>  
+        </div>
+    </div>
+    <div class="form-group">
+        <div class="form-group">
+            <button class="btn btn-primary" [disabled]="form.invalid">
+                Register
+            </button>
+        </div>
+    </div>
+</form>

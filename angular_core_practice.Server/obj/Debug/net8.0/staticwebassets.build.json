@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "489JecVcizL6qlnMm/eZN4wmwHVqq1iSrOsNCpYybSk=",
+  "Source": "angular_core_practice.Server",
+  "BasePath": "_content/angular_core_practice.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Projects\\Work\\angular_core_practice\\angular_core_practice.client\\angular_core_practice.client.esproj",
+      "Version": 2,
+      "Source": "angular_core_practice.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,26 @@
+<div [ngClass]="{'focused-card' : isSelected, 'unfocused-card': !isSelected}" class="card-block">
+
+    <span class="card-update-btn"><i class="fa fa-edit" (click)="switchEditStatus()"></i></span>
+    <span class="card-update-btn card-delete-btn"><i class="fa fa-trash" (click)="removeCard(id)"></i></span>
+
+    <mat-card class="example-card" *ngIf="isEditable">
+        <div><input type="text" class="form-control add-card-input" [(ngModel)]="title" (mouseout)="editCard(id)" /></div>
+    </mat-card>
+
+    <mat-card class="example-card" *ngIf="!isEditable">
+        <a [routerLink]="['./', id, userId]" class="card-link">
+            <mat-card-header>
+                <mat-card-title>{{title}}</mat-card-title>
+                <mat-card-subtitle>{{username}}</mat-card-subtitle>
+                <mat-card-subtitle>{{createdate | date: 'dd.MM.yyyy'}}</mat-card-subtitle>
+            </mat-card-header>
+            <img mat-card-image [src]="getImagePath()" alt="Photo of a Shiba Inu">
+            <mat-card-content>
+            </mat-card-content>
+            <mat-card-actions>
+                <button class="btn btn-light">LIKE</button>
+                <button class="btn btn-light">SHARE</button>
+            </mat-card-actions>
+        </a>
+    </mat-card>
+</div>

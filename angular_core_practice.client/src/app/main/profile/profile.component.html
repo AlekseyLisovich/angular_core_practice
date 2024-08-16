@@ -1,0 +1,51 @@
+<div class="container page-content">
+    <div class="row">
+        <div class="col-md-10">
+            <h1>My Profile</h1>
+        </div>
+    </div>
+</div>
+
+<div class="container page-content">
+    <form [formGroup]="form" (ngSubmit)="onSubmit()" class="profile-form">
+        <div class="form-group">
+            <mat-form-field class="example-full-width">
+                <mat-label>Username</mat-label>
+                <input type="text" matInput formControlName="username">
+                <mat-hint></mat-hint>
+                <mat-error *ngIf="profileForm.username.invalid && (profileForm.username.dirty || profileForm.username.touched)">
+                    <div *ngIf="profileForm.username.errors?.minlength">Username must be at least 4 characters long.</div>
+                    <div *ngIf="profileForm.username.errors?.maxlength">Username must be no more than 20 characters.</div>
+                </mat-error>
+            </mat-form-field>
+        </div>
+        <div class="form-group">
+            <mat-form-field class="example-full-width">
+                <mat-label>Email</mat-label>
+                <input type="email" matInput formControlName="email">
+                <mat-hint></mat-hint>
+                <mat-error *ngIf="profileForm.email.invalid && (profileForm.email.dirty || profileForm.email.touched)">
+                    <div *ngIf="profileForm.email.errors?.pattern" class="text-danger">Please provide a valid email address.</div>
+                </mat-error>
+            </mat-form-field>
+        </div>
+        <div class="form-group">
+            <mat-form-field class="example-full-width">
+                <mat-label>Password</mat-label>
+                <input type="password" matInput formControlName="password">
+                <mat-hint></mat-hint>
+                <mat-error *ngIf="profileForm.password.invalid && (profileForm.password.dirty || profileForm.password.touched)">
+                    <div *ngIf="profileForm.password.errors?.minlength">Password must be at least 4 characters long</div>
+                    <div *ngIf="profileForm.password.errors?.maxlength">Password must be no more than 20 characters.</div>
+                </mat-error>
+            </mat-form-field>
+        </div>
+        <div class="form-group">
+            <div class="form-group">
+                <button class="btn btn-primary" [disabled]="form.invalid">
+                    Save
+                </button>
+            </div>
+        </div>
+    </form>
+</div>

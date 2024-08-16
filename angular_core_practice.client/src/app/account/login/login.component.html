@@ -1,0 +1,29 @@
+<form [formGroup]="form" novalidate (ngSubmit)="onSubmit()">
+    <div class="form-group">
+        <mat-form-field class="example-full-width">
+            <mat-label>Username</mat-label>
+            <input type="text" matInput formControlName="username">
+            <mat-hint></mat-hint>
+            <mat-error *ngIf="loginForm.username.invalid && (loginForm.username.dirty || loginForm.username.touched)">
+                <div *ngIf="loginForm.username.errors?.required">Field is required.</div>
+            </mat-error>
+        </mat-form-field> 
+    </div> 
+    <div class="form-group">
+        <mat-form-field class="example-full-width">
+            <mat-label>Password</mat-label>
+            <input type="password" matInput formControlName="password">
+            <mat-hint></mat-hint>
+            <mat-error *ngIf="loginForm.password.invalid && (loginForm.password.dirty || loginForm.password.touched)">
+                <div *ngIf="loginForm.password.errors?.required">Field is required.</div>
+            </mat-error>
+        </mat-form-field>  
+    </div>
+    <div class="form-group">
+        <div class="form-group">
+            <button class="btn btn-primary" [disabled]="form.invalid">
+                Login
+            </button>
+        </div>
+    </div>
+</form>

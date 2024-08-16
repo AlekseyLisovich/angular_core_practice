@@ -1,0 +1,9 @@
+.example-card {
+    margin: 10px;
+}
+
+.mat-card-subtitle,
+.mat-card-content {
+    font-size: 12px !important;
+    margin-bottom: 4px !important;
+}

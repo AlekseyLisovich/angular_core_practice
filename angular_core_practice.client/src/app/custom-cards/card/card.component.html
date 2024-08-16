@@ -1,0 +1,18 @@
+<div class="card-block">
+    <mat-card class="example-card">
+        <a [routerLink]="['./', id, userId]" class="card-link">
+            <mat-card-header>
+                <mat-card-title>{{title}}</mat-card-title>
+                <mat-card-subtitle>{{username}}</mat-card-subtitle>
+                <mat-card-subtitle>{{createdate | date: 'dd.MM.yyyy'}}</mat-card-subtitle>
+            </mat-card-header>
+            <img mat-card-image [src]="getImagePath()" alt="Photo of a Shiba Inu">
+            <mat-card-content>
+            </mat-card-content>
+            <mat-card-actions>
+                <button class="btn btn-light">LIKE</button>
+                <button class="btn btn-light">SHARE</button>
+            </mat-card-actions>
+        </a>
+    </mat-card>
+</div>

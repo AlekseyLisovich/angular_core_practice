@@ -1,0 +1,46 @@
+.example-card {
+    margin: 20px;
+}
+
+.mat-card-subtitle,
+.mat-card-content {
+    font-size: 12px !important;
+    margin-bottom: 4px !important;
+}
+
+.card-update-btn {
+    font-size: 25px;
+    right: -10px;
+    position: relative;
+    float: right;
+    cursor: pointer;
+}
+
+.card-delete-btn {
+    top: 30px;
+    right: -30px;
+}
+
+.card-link {
+    text-decoration: none;
+    color: #000;
+}
+
+.edit-card-input {
+    border: 1px solid #ced4da;
+    background-color: #fff;
+    margin: 10px;
+    color: #000;
+}
+
+.edit-card-btn {
+    margin: 10px;
+}
+
+.focused-card>.card-update-btn {
+    display: inherit;
+}
+
+.unfocused-card>.card-update-btn {
+    display: none;
+}

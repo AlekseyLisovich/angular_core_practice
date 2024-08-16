@@ -1,0 +1,119 @@
+.navbar-light {
+    background-color: #fff;
+    text-align: right;
+    padding: 5px 0px;
+}
+
+.content-body {
+    background-color: #F1F2F2;
+}
+
+.home-container {
+    width: 700px;
+}
+
+#navbar {
+    color: #ffffff;
+    background-color: #F1F2F2;
+    border-bottom: 1px solid #313A45;
+}
+
+.navbar-group {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+.navbar-group>li {
+    display: inline-block;
+    flex: 0 1 auto;
+    list-style-type: none;
+}
+
+#navbar ul li a {
+    display: block;
+    color: #233C4F;
+    font-size: 20px;
+    padding: 18px;
+}
+
+#navbar ul li.active a,
+#navbar ul li a:hover {
+    color: #ffffff;
+    background-color: #233C4F;
+    text-decoration: none;
+}
+
+#navbar ul li a:active {
+    text-decoration: none;
+}
+
+#navbar ul li a:link {
+    text-decoration: none;
+}
+
+.home-header-right {
+    border-left: 1px solid #c8ced3;
+    padding-left: 20px;
+    color: #223c4d;
+    font-size: 14px;
+}
+
+.header-title-text {
+    width: 80%;
+}
+
+.header-inner-title-main {
+    font-size: 26px;
+    color: #223c4d;
+    margin-bottom: 20px;
+    line-height: 32px;
+}
+
+.next-automailer-message {
+    font-size: 16px;
+    color: #223c4d;
+    width: 75%;
+    margin: 0px 0px 10px 20px;
+    float: left;
+    font-family: Libre Franklin ExtraLight;
+}
+
+.user-details-level {
+    font-weight: bold;
+}
+
+.logout-btn {
+    margin-right: 20px;
+}
+
+.user-greeting-left {
+    width: 70%;
+}
+
+.user-details-greeting {
+    font-size: 32px;
+}
+
+.user-greeting-right {
+    width: 30%;
+    border-left: 1px #bdbdbd solid;
+    padding-left: 50px;
+}
+
+#header-inner .container {
+    border-bottom-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+    border-top: none;
+    margin-bottom: 20px;
+    box-shadow: 0px 2px 5px 2px rgba(0, 0, 0, 0.1);
+    padding: 30px 30px 20px 30px;
+    background-color: #fff;
+    justify-content: space-between;
+    padding: 30px 30px 30px;
+}
+
+.navbar-main>.active {
+    background-color: #233C4F;
+}

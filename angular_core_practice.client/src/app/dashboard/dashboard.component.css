@@ -1,0 +1,57 @@
+.dashboard {
+    background-color: #fff;
+    padding: 0px;
+    box-shadow: 0px 2px 5px 2px rgba(0, 0, 0, 0.1);
+}
+
+.dashboard-inner>.active {
+    background-color: #233C4F;
+    font-family: Libre Franklin Medium;
+}
+
+.dashboard-block {
+    border-bottom: 1px solid #F1F2F2;
+    list-style-type: none;
+}
+
+.dashboard-block a:link {
+    text-decoration: none;
+}
+
+.dashboard-inner>.active a {
+    color: #fff;
+}
+
+.dashboard-link-text {
+    padding: 8px 20px 8px 30px;
+}
+
+.dashboard-link {
+    color: #233C4F;
+}
+
+.dashboard-block:hover {
+    background-color: #233C4F;
+    cursor: pointer;
+    font-family: Libre Franklin Medium;
+}
+
+.dashboard-block:hover a {
+    color: #fff;
+}
+
+.dashboard-contact-info {
+    font-size: 12px;
+    color: #233C4F;
+    line-height: 1.4;
+    margin: 10% 0% 10% 20%;
+}
+
+.dashboard-footer {
+    font-size: 11px;
+    padding: 10% 10% 10% 20%;
+    line-height: 1.4;
+    background-color: #F1F2F2;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+}

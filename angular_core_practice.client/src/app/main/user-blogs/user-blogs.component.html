@@ -1,0 +1,19 @@
+<div class="container page-content" style="padding: 10px 50px">
+
+    <div class="row">
+        <div class="col-md-3">
+            <input type="text" class="form-control add-card-input" [(ngModel)]="blogTitle" />
+        </div>
+        <div class="col-md-9">
+            <button type="button" class="btn btn-primary add-card-btn" (click)="addBlog()">Add Card</button>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-3" *ngFor="let card of cards">
+            <editable-blog-card [id]="card.id" [userId]="card.userId" [title]="card.title" [username]="card.author" [createdate]="card.createdAt" [imageId]="card.id" (editCardEvent)="editBlog($event)" (deleteCardEvent)="deleteBlog($event)">
+            </editable-blog-card>
+        </div>
+    </div>
+
+</div>

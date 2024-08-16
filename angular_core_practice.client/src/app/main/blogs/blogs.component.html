@@ -1,0 +1,9 @@
+<div class="container page-content" style="padding: 10px 50px">
+
+    <div class="row">
+        <div class="col-md-3" *ngFor="let card of cards">
+            <blog-card [id]="card.id" [userId]="card.userId" [title]="card.title" [username]="card.author" [createdate]="card.createdAt" [imageId]="card.id"></blog-card>
+        </div>
+    </div>
+
+</div>

@@ -1,0 +1,33 @@
+<div class="navbar-light">
+    <button class="btn btn-danger logout-btn" (click)="onLogout()">Logout</button>
+</div>
+
+<div id="navbar">
+    <div class="container home-container">
+        <ul class="navbar-group navbar-main">
+            <li [routerLinkActive]="'active'"><a routerLink="/userposts">My Cards</a></li>
+            <li [routerLinkActive]="'active'"><a routerLink="/posts">All Cards</a></li>
+            <li [routerLinkActive]="'active'"><a routerLink="/settings">Settings</a></li>
+            <li [routerLinkActive]="'active'"><a routerLink="/profile">Profile</a></li>
+        </ul>
+    </div>
+</div>
+
+<div class="content-body" id="content">
+
+    <div class="row">
+        <dashboard class="col-md-2"></dashboard>
+
+        <div id="header-inner" class="col-md-10">
+            <div class="container">
+                <div class="user-greeting-left">
+                    <div class="user-details-greeting">Welcome back, {{currentUser.username}}! Let's get started!</div>
+                </div>
+                <div class="user-greeting-right">
+                </div>
+            </div>
+            <router-outlet></router-outlet>
+        </div>
+    </div>
+
+</div>
